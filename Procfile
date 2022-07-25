@@ -1,1 +1,1 @@
-worker: python Hello World.ipynb
+worker: python hello_word.ipynb
