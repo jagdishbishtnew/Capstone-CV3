@@ -1,1 +1,1 @@
-worker: python hello_word.ipynb
+worker: python TestFile.ipynb
